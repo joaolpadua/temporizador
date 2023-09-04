@@ -17,4 +17,4 @@ while t:
     t -= 1
     time.sleep(1)
 
-print("Acabou o tempo!")
+print("Acabou o tempo! ")
